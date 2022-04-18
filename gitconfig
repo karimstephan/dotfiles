@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = karim.stephan@gmail.com
+	name = Karim Stephan
